@@ -1,8 +1,8 @@
-# Next.js + Tailwind CSS Starter
+# Discord Bot website using Next.js + Tailwind CSS Starter
 
 A starter template for building web applications with Next.js, Tailwind CSS, and TypeScript. This template includes a preconfigured development environment, as well as a basic set of components and layout styles to get you started.
 
-![welcome-screen](public/screen.png)
+![welcome-screen](public/lofibeats.png)
 
 ## Features
 
