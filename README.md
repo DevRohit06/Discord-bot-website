@@ -21,12 +21,12 @@ To use this template, you will need to have the following tools installed on you
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/okoyecharles/nextjs-tailwind-starter.git
+git clone https://github.com/DevRohit06/Discord-bot-website.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd nextjs-tailwind-starter
+cd Discord-bot-website
 ```
 
 3. Install dependencies:
