@@ -1,0 +1,68 @@
+
+@font-face {
+    font-family: Font;
+    src: url(../font/font.woff2);
+  }
+html, body {
+    font-family: Font;
+    margin:0;
+    height:100%;
+    min-height:100%;
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/background.png");
+    background-size:fill;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+.invite-btn {
+    background:linear-gradient(90deg, rgb(208, 187, 26), rgba(212, 30, 30, 0.989));
+}
+.section-1 {
+    background-color: #6d0003;
+    
+}
+.section-1 h1 {
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+img .line-1  {
+    position: absolute;
+    top:30px;
+}
+
+
+.curve {
+    position: absolute;
+    height: 250px;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+.curve::before {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+    width: 55%;
+    height: 100%;
+    transform: translate(85%, 60%);
+    background-color: hsl(216, 21%, 16%);
+}
+
+.curve::after {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+    width: 55%;
+    height: 100%;
+    background-color: #3c31dd;
+    transform: translate(-4%, 40%);
+    z-index: -1;
+}
+.nav {
+    
+}
